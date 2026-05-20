@@ -60,6 +60,8 @@ set LHOST 0.0.0.0
 <img width="700" height="772" alt="image" src="https://github.com/user-attachments/assets/e075221e-5f27-45fb-ab8a-bc87d92aa9fc" />
 
 
+
+
 <img width="616" height="133" alt="image" src="https://github.com/user-attachments/assets/acaa30e1-b96b-44a2-af2b-a812915f7d79" />
 
 
@@ -67,6 +69,8 @@ set LHOST 0.0.0.0
 On the target Windows machine, open a Web browser and open this URL, replacing the IP address with the IP address of your Kali machine:
 http://192.168.1.2/fun.exe  ( Replace IP address appropriately)
 The file "fun.exe" downloads. 
+
+
 ## OUTPUT:
 
 <img width="810" height="192" alt="image" src="https://github.com/user-attachments/assets/a41b73d7-7124-453c-b8e3-8a26d49440b5" />
